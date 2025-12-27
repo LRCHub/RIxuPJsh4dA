@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Hate Rodrigo",
+  "base_artist": "YENA",
+  "createdAt": "2025-12-27T08:00:34.233437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hate Rodrigo (feat. YUQI)",
+      "artist": "YENA feat. YUQI",
+      "has_synced": true,
+      "path": "select/01_Hate_Rodrigo_(feat._YUQI)_YENA_feat._YUQI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hate Rodrigo (Feat. YUQI)",
+      "artist": "YENA, Yuqi",
+      "has_synced": true,
+      "path": "select/02_Hate_Rodrigo_(Feat._YUQI)_YENA,_Yuqi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hate Rodrigo",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/03_Hate_Rodrigo_YENA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hate Rodrigo",
+      "artist": "YENA feat. YUQI",
+      "has_synced": true,
+      "path": "select/04_Hate_Rodrigo_YENA_feat._YUQI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hate Rodrigo (Feat. YUQI)",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/05_Hate_Rodrigo_(Feat._YUQI)_YENA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hate Rodrigo ft. YUQI",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/06_Hate_Rodrigo_ft._YUQI_YENA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hate Rodrigo (Feat. 우기)",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/07_Hate_Rodrigo_(Feat._우기)_YENA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hate Rodrigo (Feat. YUQI)",
+      "artist": "YENA, ウギ",
+      "has_synced": false,
+      "path": "select/pl_01_Hate_Rodrigo_(Feat._YUQI)_YENA,_ウギ.txt"
+    }
+  ]
+}
